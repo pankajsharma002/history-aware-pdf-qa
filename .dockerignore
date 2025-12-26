@@ -1,0 +1,7 @@
+__pycache__
+chatvenv/
+*.pyc
+*.pyo
+*.pyd
+.env
+test.ipynb
