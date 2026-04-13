@@ -1,7 +1,7 @@
 # History-Aware PDF Question Answering
 
 A **history-aware, conversational Retrieval-Augmented Generation (RAG)** application that allows users to upload PDF documents and chat with their content.  
-Built using **Streamlit**, **LangChain**, **Chroma**, **HuggingFace embeddings**, and **Groq LLM**, with full chat history support.
+Built using **Streamlit**, **LangChain**, **Faiss-cpu**, **HuggingFace embeddings**, and **Groq LLM**, with full chat history support.
 
 ---
 
